@@ -1,6 +1,6 @@
 This repository contains the Google Colab notebook associated with the paper:
 
-EDGE-KD: Explainability-Driven Guidance for Efficient Knowledge Distillation in Chest X-Ray Classification
+# EDGE-KD: Explainability-Driven Guidance for Efficient Knowledge Distillation in Chest X-Ray Classification
 
 EDGE-KD is a knowledge distillation framework for medical image classification that integrates explainability into the training process. The method uses TS-EXM (Texture–Shape Explainable Method) to extract and fuse saliency maps capturing complementary texture and shape information. These explanation maps are used to guide the student model during training, with the objective of improving both classification performance and interpretability.
 
@@ -24,6 +24,6 @@ If you use this code or find it useful for your research, please cite our paper:
 }
 
 
-Run in Google Colab
+## Run in Google Colab
 
 You can open and run the notebook directly in Google Colab.
