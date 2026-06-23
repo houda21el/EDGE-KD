@@ -9,6 +9,8 @@ Citation:
 
 El Mohamadi, H., El Hassouni, M., & Jennane, R. (2026). EDGE-KD: Explainability-Driven Guidance for Efficient Knowledge Distillation in Chest X-Ray Classification. In International Workshop on Medical Image Computing in Resource Constrained Settings (pp. 289-298). Springer, Cham.
 
+Link paper: https://link.springer.com/chapter/10.1007/978-3-032-13654-1_29
+
 ## 🔗 Run in Google Colab
 You can open and run the notebook directly in Colab 
 
